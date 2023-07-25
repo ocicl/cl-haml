@@ -1,0 +1,10 @@
+* cl-haml
+
+Haml for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Unspeakable/cl-haml.git   |
+| commit  | ce9199b  |
+| systems | cl-haml |
+|---------+-------------------------------------------|
+
